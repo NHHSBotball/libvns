@@ -14,7 +14,6 @@ typedef struct vars{
   double true_distance;
   int errors;
 }vars;
-vars x;
 int k = 10;
 int setup();
 
